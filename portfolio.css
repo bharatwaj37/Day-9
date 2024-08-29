@@ -9,3 +9,12 @@ span {
     filter: drop-shadow(2px 2px 2px rgb(203, 206, 46));
     color: hsl(60, 100%, 50%);
 }
+.banner{
+    background-image: url(https://occ-0-7613-3663.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABfKifMxxzLJt7q_b3OcVgOhuI5bHPnJyISd1MRVhZl1NeLid_TrwhdKtpseVDTC0p1nzXNfqMPw70o1tz7reLPjv3D5D3ASF1Sqd.jpg?r=51d&quot;);
+    background-size: cover;
+    background-position: center center;
+    height: 600px;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    color: #fff;
+}
