@@ -24,4 +24,19 @@ span {
 .posters{
     display: flex;
     overflow: auto;
+    overflow-y: hidden;
+    overflow-x: scroll;
+    margin: 1% 0.5%;
+}
+.posters::-webkit-scrollbar {
+    display: none;
+}
+.posters img {
+    margin: 0% 0.2%;
+    border-radius: 1%;
+}
+h1{
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0.8% 0% 0% 0.8%;
 }
